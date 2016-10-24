@@ -17,4 +17,4 @@ use Travis\NumVerify;
 $response = NumVerify::run($myapikey, '12025551234');
 ```
 
-See the [documentation](https://numverify.com/documentation) for more information.
+Notice that the number must have a prefix of ``1`` or whatever country code is appropriate for the number.  See the [documentation](https://numverify.com/documentation) for more information.
