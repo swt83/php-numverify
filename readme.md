@@ -8,7 +8,7 @@ Normal install via Composer.
 
 ## Usage
 
-Call any API method and pass params as a single array:
+There is only one method to call:
 
 ```php
 use Travis\NumVerify;
